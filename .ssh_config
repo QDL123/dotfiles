@@ -1,0 +1,4 @@
+Host qdl
+   HostName login.engin.umich.edu
+   Username qdl
+   Compression yes
